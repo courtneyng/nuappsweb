@@ -1,3 +1,9 @@
+# nuappsweb
+
+This is the nuappstech.com website. I made it for the 2019-2020 school year for our Virtual Enterprise company, Nuapps.
+Due to the time crunch, I had used Bootstrap to help kickstart the website fast and adjusted it to what we had wanted 
+for our company. This project is discontinued.
+
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
